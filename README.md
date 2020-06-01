@@ -2,10 +2,14 @@
 
 
 ## How to use this?
+1. Enter to the following link:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
 
-You can run this repo in a Jupyter Notebook on Binder by clicking on the following button:
+2. Paste this url https://github.com/guyfre/csv_manipulation.git
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/8080labs/bamboolib_binder_template/master?filepath=bamboolib_demo_titanic.ipynb)
+3. Press launch
+
+4. Choose jupyter notebook or create a new one
 
 
 
